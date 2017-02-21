@@ -1,2 +1,1 @@
-# Plugins
-Jasper's Plugin
+# Jasper-EULA License
